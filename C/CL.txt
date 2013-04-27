@@ -1,0 +1,26 @@
+=========================================================
+Sample Code using the IBM CL programming Language
+=========================================================
+
+PGM (&IN &TYP)
+
+   DCL &IN  *CHAR 6
+   DCL &OUT *CHAR 8
+   DCL &TYP *CHAR 1
+
+   IF (&TYP = J) +
+      DO
+         CVTDAT DATE(&IN) TOVAR(&OUT) FROMFMT(*MDY) +
+                TOFMT(*JUL) TOSEP(*NONE)
+      ENDDO
+
+   ELSE IF (&TYP = M) +
+      DO
+         CVTDAT DATE(&IN) TOVAR(&OUT) FROMFMT(*JUL) +
+                TOFMT(*MDY) TOSEP(*NONE)
+      ENDDO
+
+   SNDPGMMSG MSG('IN=' || &IN || '  OUT=' || &OUT) +
+             MSGTYPE(*COMP)
+
+ENDPGM  
