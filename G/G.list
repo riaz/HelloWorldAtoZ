@@ -1,27 +1,37 @@
-G
-Game Maker Language
-GameMonkey Script
-GAMS
-GAP
-G-code
-Genie
-GDL
-Gibiane
-GJ
-GEORGE
-GLSL
-GNU E
-GM
-Go
-Go!
-GOAL
-Gödel
-Godiva
-GOM (Good Old Mad)
-Goo
-Gosu
-GOTRAN
-GPSS
-GraphTalk
-GRASS
-Groovy
+G                   - Its the name for the most commonly used numerical control programming lanaguage, which has many implementations.
+Gambas              - Its a free development environment based on Basic Interpreter with object extensions, like Visual Basic.
+Game Maker Language - Its a interpreted scripting langauge used with computer game creation application called Game Maker.
+GameMonkey Script   - GameMonkeyScript is a small, cross-platform scripting language , for embedding into games.Its similar to Lua.
+GAMS                - General Algebric Modelling System(GAMS) is a high-level modeling system for mathematical optimization.
+GAP                 - Stands for Groups, Algorithms and Programming , is a computer algebra system for computing discrete algebra.
+G-code              - Same as G programming Language
+Gecho               - Its used to automate a system to perform specific tasks,suitable for system administration.
+Gema                - Its a general purpose text processing utility based on the the concept of pattern matching.
+GEMBase 4GL         - This is a fourth generation programming langauge.
+Genie               - Its a general-purpose high-level programming langauge.It uses the same compiler as Vala.
+GDL                 - Geometric Description language is the programming langauge of archiCAD library parts.
+Gibiane             - 
+GJ                  -
+GEORGE              -
+Glee
+GLSL                -
+GNU E               -
+GM                  -
+Go                  - 
+Go!                 -
+GOAL                -
+Gödel               -
+Godiva              -
+GolfScript          -
+GOM                 - Stands for  Good Old Mad.
+Goo                 -
+Gosu                -
+GOTRAN              -
+GPSS                -
+GraalScript 1       -
+GraalScript 2       -
+GraphTalk           -
+GRASS               -
+Groovy              -
+Gtk#                - 
+GW-Basic            -
