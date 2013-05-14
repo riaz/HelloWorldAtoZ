@@ -18,19 +18,17 @@ GLSL                - Stands for OpenGL Shading Language,is a high-level languag
 GNU E               - Its an extension of C++ PL, to support persistent applications.
 Go                  - Go is a open-sourced concurrent system programming langauge by google Inc.
 Go!                 - Its a agent-based programming language in the tradition of logic-based programming.
-GOAL                -
-Gödel               -
-Godiva              -
-GolfScript          -
-GOM                 - Stands for  Good Old Mad.
-Goo                 -
-Gosu                -
-GOTRAN              -
-GPSS                -
-GraalScript 1       -
-GraalScript 2       -
-GraphTalk           -
-GRASS               -
-Groovy              -
-Gtk#                - 
-GW-Basic            -
+GOAL                - Game Oriented Assembly LISP , is a video game programming langauge.
+Gödel               - Its a general purpose declarative programming langauge  for non-commercial use only.
+Godiva              - Stands for Goal-directed Java, is a extension of the Java Programming Lanaguage.
+GolfScript          - Its a stack orientd esoteric programming langauge aimed to solve probleams with fewer key strokes.
+GOM                 - Michigan Algorithm Decoder, is aprogramming langauge and compiler for the IBM 704.
+Goo                 - Its a lexically scoped object -oriented programming langauge,designed for powerful realtime use.
+Gosu                - Its a general-purpose Java Virtual Machine based programming language.
+GPSS                - General Purpose Simulation System, is a discete time-simulation general-purpose programming langauge.
+GraalScript 1       - GScript is Graal Scripting Langauge,with semantics similar to C and java.Version 1
+GraalScript 2       - GScript is Graal Scripting Langauge,with semantics similar to C and java.Version 2
+GRASS               - Graphics Symbiosis System was created to script 2D vector graphics animations.
+Groovy              - Its an object oriented langauge for the Java Platform.Its a dynamic PL.
+Gtk#                - Its a cross-platform widget toolkit for creating graphical user interfaces.Licensed under GNU LGPL.
+GW-Basic            - Its a Dialect of the BASIC programming langauge.
