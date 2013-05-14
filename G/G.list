@@ -10,15 +10,14 @@ Gema                - Its a general purpose text processing utility based on the
 GEMBase 4GL         - This is a fourth generation programming langauge.
 Genie               - Its a general-purpose high-level programming langauge.It uses the same compiler as Vala.
 GDL                 - Geometric Description language is the programming langauge of archiCAD library parts.
-Gibiane             - 
-GJ                  -
-GEORGE              -
-Glee
-GLSL                -
-GNU E               -
-GM                  -
-Go                  - 
-Go!                 -
+Gibiane             - Its a computer programming language ,invented at CEA.
+GJ                  - Stands for Generic Java.Its a  superset of Java and add support for generic programming.
+GEORGE              - Its designed around a push-down pop-stack for arithmetic operations, employing polish notations.
+Glee                - The Glee programming langauge.
+GLSL                - Stands for OpenGL Shading Language,is a high-level language based on C-like syntax.
+GNU E               - Its an extension of C++ PL, to support persistent applications.
+Go                  - Go is a open-sourced concurrent system programming langauge by google Inc.
+Go!                 - Its a agent-based programming language in the tradition of logic-based programming.
 GOAL                -
 Gödel               -
 Godiva              -
