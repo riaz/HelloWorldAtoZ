@@ -5,22 +5,23 @@ Ladder           - Ladder logic is a PL that represents a program by a graphical
 Lagoona          - Lagoona is an experimental programming language developed by Michael Franz, a former student of Niklaus Wirth.
 Lang5            - Lang5 is a stack based array language with roots in APL and Forth.
 LANSA            - LANSA is a development environment that requires a single skill set to build applications that can run on multiple PFs.
-
-Lasso            -
-LaTeX            -  
-Lava             -
-LC-3             -
-Leadwerks Script -
-Leda             -
-Legoscript       -
-LIL              -
-LilyPond         -
-Limbo            - 
-Limnor           -
-LINC             -
-Lingo            -
-Linoleum         -
-LIS              -
+Lasso            - Lasso Professional is an interpreted PL and server for developing internet applications which use web browsers.
+LaTeX            - Its a document markup language and document presentation system for the TeX typesetting program. 
+Lava             - Lava is an visual object-oriented, interpreter-based programming language with an associated programming environment.
+LC-3             - Little Computer 3, or LC-3, is a type of computer educational programming language, an assembly language.
+Leadwerks Script - The Leadwerks Engine is a 3D game engine powered by OpenGL 2.1. It was designed by Leadwerks Software. 
+Leda             - Leda is a multiparadigm programming language whose goal is to successfully mix imperative, object-oriented, functional PL.
+Legoscript       - The LEGO Mindstorm series of kits contain software and hardware to create small, customizable and programmable robots.
+Lexico           - The Lexico Programming languague.
+LibertyBASIC     - Liberty BASIC is a procedural programming language for Windows PCs, created by Shoptalk Systems.
+LIL              - LIL, the Little Implementation Language, was a system programming language during the early days of Unix history.
+LilyPond         - GNU LilyPond is a computer program and file format for music engraving. 
+Limbo            - Limbo is a PL for writing distributed systems and is the language used to write applications for the Inferno OS. 
+Limnor           - Limnor is a generic-purpose codeless and visual programming system. It can be extended by software developers. 
+Linden           - The Lindex is a Scripting Langauge.
+Lingo            - Lingo is a scripting language developed by John H. Thompson for use in Adobe Director used for regular desktop applications
+Linoleum         - The L.in.oleum (often called Linoleum or simply Lino) is an unstructured, untyped, procedural programming language.
+LIS              - 
 LISA             -
 Lisaac           -
 Lisp             -
