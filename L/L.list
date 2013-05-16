@@ -31,12 +31,13 @@ Little b         - Little b is a domain-specific programming language, more spec
 Logo             - Logo is a multi-paradigm computer programming language used in education. It is an adaptation and dialect of the Lisp.
 Logtalk          - Logtalk is an object-oriented logic programming language that extends the Prolog language.
 LPC              - short for Lars Pensjö C is an OO programming language derived from C[1] and developed originally by Lars Pensjö .
-LSE              -
-LSL              -
-LiveCode         -
-Lua              -
-Lucid            -
-Lustre           -
-LYaPAS           -
-Lynx             -
-   
+Lolcode          - The Lolcode Programming langauge.
+Lotus Script     - LotusScript is a programming language used in Lotus Notes and other IBM/Lotus products. 
+LSE              - LSE (Langage symbolique d'enseignement) is a PL developed at Supélec .It is similar to the BASIC.
+LSL              - Linden Scripting Language, or LSL, is the programming language used by residents of Second Life (SL).
+LiveCode         - The LiveCode PL (formerly the "Revolution" programming language) is both an open-source and commercial cross-platform.
+Lua              - LUA is a lightweight multi-paradigm programming language designed as a scripting language with extensible semantics.
+Lucid            - Lucid is a dataflow programming language. It is designed to experiment with non-von Neumann programming models.
+Lustre           - Lustre is a formally defined, declarative, and synchronous dataflow programming language for programming reactive systems. 
+LYaPAS           - Logical Language for the Representation of Synthesis Algorithms is a programming language created in the Soviet Union.
+Lynx             - Lynx is a programming language for large distributed networks, using remote procedure calls. 
