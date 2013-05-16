@@ -22,29 +22,31 @@ Maya (MEL)   - The Maya Embedded Language (MEL) is a scripting language used to 
 MDL          - MDL (the MIT Design Language) is a descendant of the Lisp programming language. 
 Mercury      - Mercury is a functional logic programming language geared towards real-world applications.
 Mesa         - Mesa was an innovative programming language developed in the late 1970s at the Xerox Palo Alto Research Center in Palo Alto.
-Metacard     -
-Metafont     -
-MetaL        -
-Microcode    -
-MicroScript  -
-MIIS         -
-MillScript   - 
-MIMIC        -
-Mirah        - 
-Miranda      - 
-MIVA Script  -
-ML           -
-Moby         -
-Model 204    -
-Modelica     -
-Modula       -
-Modula-2     -
-Modula-3     -
-Mohol        -
-MOO          -
-Mortran      -
-Mouse        -
-MPD          -
-MSIL         -                    deprecated name for CIL
-MSL          - 
-MUMPS        - 
+Metacard     - MetaCard was a cross-platform, commercial GUI toolkit. MetaCard included an IDE and had its own language, MetaTalk. 
+Metafont     - Metafont is a description language used to define vector fonts. It is also the name of the interpreter that executes Metafont 
+MetaL        - The Meta-programming Language is a programming language designed for meta-programming.
+Microcode    - A microassembler is a computer program that helps prepare a microprogram to control the low level operation of a computer.
+MicroScript  - The MicroScript PL is a graphically-oriented, high-level PL created by Personal Media Corporation for TRON.
+MIIS         - MIIS (Meditech Interpretive Information System) is a MUMPS-like programming language developed by Meditech in the 1970s. 
+MillScript   - MillScript is a computer programming language for the batch production of templated Web sites.
+MIMIC        - MIMIC, known in capitalized form only, is a former simulation computer language developed 1964 by H. E. Petersen.
+MIPS ASM     - Assembly langauge to program MIPS family of microprocessors.
+Mirah        - Mirah (formerly known as Duby) is a programming language based on Ruby syntax, local type inference, hybrid static.
+Miranda      - Miranda is a non-strict purely functional programming language designed by David Turner .
+MIVA Script  - Miva Script is a proprietary computer scripting language mainly used for internet applications such as e-commerce.
+ML           - ML is a general-purpose functional programming language developed by Robin Milner and others in the early 1970s.
+Moby         - The Moby programming language is an experiment in computer programming, design and implementation.
+Model 204    - Model 204 is a database management system for IBM and compatible mainframe computers.
+Modelica     - Modelica is an object-oriented, declarative, multi-domain modeling language for component-oriented modeling .
+Modula       - The Modula programming language is a descendent of the Pascal programming language.
+Modula-2     - Modula-2 is a computer programming language designed and developed between 1977 and 1980 by Niklaus Wirth.
+Modula-3     - In computer science, Modula-3 is a programming language conceived as a successor to an upgraded version of Modula-2 .
+MOO          - The MOO programming language is a relatively simple programming language used to support the MOO Server.
+Mortran      - Mortran (More Fortran) is an extension of the Fortran programming language used for scientific computation.
+Mouse        - The Mouse programming language is a small computer programming language developed by Dr. Peter Grogono.
+MPD          - Multithreaded, Parallel, and Distributed programming (MPD) is a concurrent programming language.
+MSDOS        - Microsoft Disk Operating System Batch Programming.
+MSL          - The mIRC scripting language, often unofficially abbreviated to 'mSL, is the scripting language embedded in mIRC
+MUF          - MUF (Multi-User Forth) is the Forth-like programming language invented in 1990 for multi-user role playing system 
+MUMPS        - MUMPS (Massachusetts General Hospital Utility Multi-Programming System) 
+MYTHRYL      - Mythryl is a general-purpose, modular, functional programming language with compile-time type checking.
