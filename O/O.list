@@ -9,17 +9,17 @@ Object REXX   - The Object REXX programming language is an object-oriented scrip
 Object Pascal - Object Pascal refers to a branch of object-oriented derivatives of Pascal, mostly known as the primary programming language.
 Objective-C   - Objective-C is a general-purpose, high-level, object-oriented programming language that adds Smalltalk-style messaging to C.
 Objective-J   - Objective-J is a programming language developed as part of the Cappuccino web development framework.
-Obliq         -
-Obol          -
-OCaml         -
-occam         -
-occam-π       -
-Octave        -
-OmniMark      -
+Obliq         - Obliq is an interpreted, object-oriented programming language designed to make distributed, and locally multi-threaded.
+Obol          - Obol is a high-level security protocol programming language at the Computer Science department of the University of Tromsø.
+OCaml         - Objective Caml, is the main implementation of the Caml programming language, created by Xavier Leroy.
+occam         - occam is a concurrent programming language that builds on the Communicating Sequential Processes (CSP) process algebra.
+Octave        - GNU Octave is a high-level programming language, primarily intended for numerical computations.
+OmniMark      - OmniMark is a fourth-generation programming language used mostly in the publishing industry.
 Onyx          -
 Opa           -
 Opal          -
 OpenEdge ABL  -
+OpenStep      - 
 OPL           -
 OPS5          -
 OptimJ        -
