@@ -34,14 +34,15 @@ PLEXIL        - PLEXIL (Plan Execution Interchange Language) is an open source t
 Plus          - Plus is a "Pascal-like" system implementation language from the University of British Columbia (UBC).
 POP-11        - POP-11 is a reflective, incrementally compiled programming language with many of the features of an interpreted language.
 PostScript    - PostScript (PS) is a computer language for creating Vector graphics. It is a dynamically typed, concatenative PL.
-PortablE      -
-Powerhouse    -
-PowerBuilder  -  
-PowerShell    -
-PPL           -
-Processing    -
-Processing.js -  
-Prograph      -
+Pov-Ray       - The Pov-Ray Programming langauge.
+Powerhouse    - PowerHouse is a trademarked name for a byte-compiled fourth-generation PL (or 4GL) originally produced by Quasar Corporation. 
+PowerBuilder  - PowerBuilder is an integrated development environment owned by Sybase, a division of SAP.
+PowerShell    - Windows PowerShell is Microsoft's task automation framework, consisting of a command-line shell and Shell langauge.
+PPL           - The Polymorphic Programming Language (PPL) was developed in 1969 at Harvard University.
+Processing    - Processing is an open source programming language and integrated development environment (IDE) built for the electronic arts.
+Processing.js - Processing.js is a JavaScript port of Processing, a programming language designed to write visualizations, images etc. 
+Profan        - The Profan Programming langauge.
+Prograph      - Prograph is a multiparadigm programming language that uses iconic symbols to represent actions to be taken on data.
 PROIV         -
 Prolog        -
 Visual Prolog -
