@@ -16,13 +16,13 @@ occam         - occam is a concurrent programming language that builds on the Co
 Octave        - GNU Octave is a high-level programming language, primarily intended for numerical computations.
 OmniMark      - OmniMark is a fourth-generation programming language used mostly in the publishing industry.
 Onyx          - Onyx is a stack-oriented programming language.
-Opa           -
-Opal          -
-OpenEdge ABL  -
-OpenStep      - 
-OPL           -
-OPS5          -
-OptimJ        -
+Opa           - Opa is an open source programming language for developing scalable web applications.
+Opal          - OPAL (OPtimized Applicative Language) is a functional PL first developed at the Technical University of Berlin.
+OpenEdge ABL  - OpenEdge Advanced Business Language, or OpenEdge ABL for short, is a business application development language.
+OpenStep      - The OpenStep programming language.
+OPL           - The Open Programming Language (OPL) is an embedded programming language for portable devices that run the Symbian .
+OPS5          - OPS5 is a production system computer language, notable as the first such language to be used in a successful expert system,
+OptimJ        - 
 Orc           -
 ORCA/Modula-2 -
 Oriel         -
