@@ -45,14 +45,13 @@ Profan        - The Profan Programming langauge.
 Prograph      - Prograph is a multiparadigm programming language that uses iconic symbols to represent actions to be taken on data.
 Progress      - Progress Programming Langauge.
 PROIV         - PROIV is a fourth-generation programming language (4GL), developed and sold by NorthgateArinso.
-Prolog        -
-Visual Prolog -
-Promela       -
-PROTEL        -
-Protocol Buff - 
-ProvideX      -
-Pro*C         -
-Pure          -
-Pure Basic    -
-Pure Data     - 
-Python        -
+Prolog        - Prolog is a general purpose logic programming language associated with artificial intelligence and computational linguistics.
+Visual Prolog - Visual Prolog, also formerly known as PDC Prolog and Turbo Prolog, is a strongly typed object-oriented extension of Prolog.
+Promela       - PROMELA (Process or Protocol Meta Language) is a verification modeling language.
+PROTEL        - Protel stands for "Procedure Oriented Type Enforcing Language". It is a programming language created by Nortel Networks.
+Protocol Buff - The Protocol Buffer programming langauge.
+ProvideX      - ProvideX is a computer language and development environment derived from Business Basic .
+Pro*C         - Pro*C (also known as Pro*C/C++) is an embedded SQL programming language used by Oracle Database database management systems.
+Pure          - Pure is a dynamically typed, functional programming language based on term rewriting.
+Pure Basic    - The Pure Basic Programming langauge.
+Python        - Python is a general-purpose, high-level programming language whose design philosophy emphasizes code readability.
