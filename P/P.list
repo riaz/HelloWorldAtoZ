@@ -12,17 +12,18 @@ PDL           - Perl Data Language (abbreviated PDL) is a set of free software a
 PHP           - PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. 
 Phrogram      - Phrogram is a commercial programming language designed by its creators to be understandable and appealing to beginners.
 Pico          - Pico is a programming language developed at the Software Languages Lab at Vrije Universiteit Brussel.
-Pict          -
-Pike          -
-PIKT          -
-PILOT         -
-Pizza         -
-PL-11         -
-PL/0          -
-PL/B          -
-PL/C          -
-PL/I          -
-PL/M          -
+Pict          - Pict is a statically typed programming language, one of the very few based on the π-calculus. 
+Pike          - Pike is an interpreted, general-purpose, high-level, cross-platform, dynamic PL, with a syntax similar to that of C. 
+PIKT          - PIKT is cross-categorical, multi-purpose software for global-view, site-at-a-time system and network administration.
+PILOT         - Programmed Instruction, Learning, Or Teaching (PILOT) is a simple historic programming language developed in the 1960s.
+Pipelines     - A Hartmann pipeline is an extension of the Unix pipeline concept, providing for more complex paths.
+Pizza         - Pizza is an open-source superset of the Java with the Generics,Function pointers etc.
+PL-11         - PL-11 is a high-level machine-oriented programming language for the PDP-11, developed by R.D. 
+PL/0          - At least two programming languages are known as PL/0. One is a subset of IBM's general-purpose programming language PL/I.
+PL/B          - Programming Language for Business or PL/B is a business-oriented programming language originally called DATABUS.
+PL/C          - PL/C is a computer PL developed at Cornell University with the specific goal of being used for teaching programming. 
+PL/I          - The PL/M programming language (an acronym of Programming Language for Microcomputers) is a high-level language.
+PL/M          - The PL/P programming language (an acronym of Programming Language for Prime (computers)) is a mid-level programming language.
 PL/P          -
 PL/SQL        -
 PL360         -
