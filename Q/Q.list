@@ -5,5 +5,5 @@ QBasic   - QBasic (Microsoft Quick Beginners All purpose Symbolic Instruction Co
 Qi       - Qi is a functional programming language developed by Mark Tarver and introduced in April 2005.
 Qore     - Qore is a high-level, general-purpose, interpreted, dynamic programming language. It's a thread-capable, embeddable etc.
 QtScript - QtScript is a scripting engine that has been part of the Qt cross-platform application framework.
-QuakeC   -
-QPL      -
+QuakeC   - QuakeC is an interpreted language developed in 1996 by John Carmack of id Software to program parts of the video game Quake. 
+QPL      - Quantum programming is a set of computer PL that allow the expression of quantum algorithms using high-level  constructs.
