@@ -1,60 +1,75 @@
-
-S
-S2
-S3
-S-Lang
-S-PLUS
-SA-C
-SabreTalk
-SAIL
-SALSA
-SAM76
-SAS
-SASL
-Sather
-Sawzall
-SBL
-Scala
-Scheme
-Scilab
-Scratch
-Script.NET
-Sed
-Seed7
-Self
-SenseTalk
-SequenceL
-SETL
-Shift Script
-SIMPOL
-SIMSCRIPT
-Simula
-Simulink
-SISAL
-SLIP
-SMALL
-Smalltalk
-Small Basic
-SML
-SNOBOL(SPITBOL)
-Snowball
-SOL
-Span
-SPARK
-SPIN
-SP/k
-SPS
-Squeak
-Squirrel
-SR
-S/SL
-Starlogo
-Strand
-Stata
-Stateflow
-Subtext
-SuperCollider
-SuperTalk
-SYMPL
-SyncCharts
-SystemVerilog
+S             -
+S2            -
+S3            -
+S-Lang        -
+S-PLUS        -
+SA-C          -
+SabreTalk     -
+SAIL          -
+Salmon        -
+SALSA         -
+SAM76         -
+SAS           -
+SASL          -
+Sather        -
+Sawzall       -
+SBL           -
+Scala         -
+Scar          -
+Scheme        -
+Scilab        -
+Scratch       -
+Script.NET    -
+Scriptol      -
+Sed           -
+Seed7         -
+Self          -
+SenseTalk     -
+SequenceL     -
+SETL          -
+ShadowScript  -
+Shift Script  -
+Shiny         -
+SIMPOL        -
+SIMSCRIPT     -
+Simula        -
+Simulink      -
+SISAL         -
+Slate         -
+SLIP          -
+SMALL         -
+Smalltalk     -
+Small Basic   -
+Smil          -
+SML           -
+SNOBOL        -
+Snowball      -
+Snusp         -
+SOL           -
+Span          -
+SPARK         -
+SPIN          -
+Spitbol       - Same as Snowball
+SP/k          -
+SPS           -
+SPSS Syntax   -
+Sql           -
+Squeak        -
+Squirrel      -
+SR            -
+S/SL          -
+SSPL          -
+Starlet       -
+Starlogo      -
+Strand        - 
+Standard ML   -
+Stata         -
+Stateflow     -
+Subtext       -
+Suneido       -
+SuperCollider - 
+SuperTalk     -
+Svg           -
+SYMPL         -
+SyncCharts    -
+SystemVerilog -
