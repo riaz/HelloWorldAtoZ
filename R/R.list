@@ -12,11 +12,12 @@ REBOL        - Relative Expression Based Object Language) is a cross-platform da
 Redcode      - Core War is a programming game created by D. G. Jones and A. K. Dewdney in which two or more battle programs.
 REFAL        - Refal (Recursive functions algorithmic language) "is a functional PL oriented toward symbol manipulation.
 Reia         - Reia is a general-purpose concurrent object-oriented programming language for the Erlang virtual machine.
+Retro        - Retro is a stack-based, concatenative programming language with roots in Forth.
 Revolution   - Now called LiveCode, is a cross-platform RIA inspired by the Hypercard's programming langauge.
-rex          - rex is a functional PL developed by Robert M. Keller for use in teaching functional programming  
+rex          - rex is a functional PL developed by Robert M. Keller for use in teaching functional programming.  
 REXX         - Rexx (Restructured Extended Executor) is an interpreted programming language developed at IBM by Mike Cowlishaw. 
-Rlab         - 
-Robotic      -
+Rlab         - Rlab is an interactive, interpreted numerical computation program and its core programming language.
+Robotic      - The robotic programming language.
 ROOP         -
 RPG          -
 RPG Code     -
