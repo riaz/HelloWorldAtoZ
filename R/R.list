@@ -18,9 +18,9 @@ rex          - rex is a functional PL developed by Robert M. Keller for use in t
 REXX         - Rexx (Restructured Extended Executor) is an interpreted programming language developed at IBM by Mike Cowlishaw. 
 Rlab         - Rlab is an interactive, interpreted numerical computation program and its core programming language.
 Robotic      - The robotic programming language.
-ROOP         -
-RPG          -
-RPG Code     -
+ROOP         - ROOP is a multiparadigm PL targeted at AI applications created at the Chengdu University of China
+RPG          - RPG is a high-level programming language (HLL) for business applications. 
+RPG Code     - The RPG Code Programming Language.
 RPL          -
 RSL          -
 RT Assembler -

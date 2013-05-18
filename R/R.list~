@@ -17,10 +17,10 @@ Revolution   - Now called LiveCode, is a cross-platform RIA inspired by the Hype
 rex          - rex is a functional PL developed by Robert M. Keller for use in teaching functional programming.  
 REXX         - Rexx (Restructured Extended Executor) is an interpreted programming language developed at IBM by Mike Cowlishaw. 
 Rlab         - Rlab is an interactive, interpreted numerical computation program and its core programming language.
-Robotic      -
-ROOP         -
-RPG          -
-RPG Code     -
+Robotic      - The robotic programming language.
+ROOP         - ROOP is a multiparadigm PL targeted at AI applications created at the Chengdu University of China
+RPG          - RPG is a high-level programming language (HLL) for business applications. 
+RPG Code     - 
 RPL          -
 RSL          -
 RT Assembler -
