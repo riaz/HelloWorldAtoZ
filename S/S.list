@@ -25,10 +25,10 @@ Seed7         - Seed7 is an extensible general-purpose programming language desi
 Self          - Self is an object-oriented programming language based on the concept of prototypes. Self was a dialect of Smalltalk.
 SenseTalk     - SenseTalk is an English-like scripting language derived from the HyperTalk language used in HyperCard. 
 SequenceL     - SequenceL is a general purpose functional programming language, whose primary design objectives are performance on multicore hardware.
-SETL          -
-ShadowScript  -
-Shift Script  -
-Shiny         -
+SETL          - SETL (SET Language) is a very-high level programming language based on the mathematical theory of sets.
+ShadowScript  - The Shadow Script Scripting Langaueg.
+Shift Script  - Shift Script is a small, rapid development programming language that can be both used for general programs and computer games.
+Shiny         - Shiny is a simple interpreted scripting language with aspects similar to Lua, Ruby and Perl. 
 SIMPOL        -
 SIMSCRIPT     -
 Simula        -
