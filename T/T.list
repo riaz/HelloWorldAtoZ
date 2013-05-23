@@ -23,11 +23,10 @@ TPU          - DEC Text Processing Utility  was a language developed by Digital 
 Trac	     - TRAC (for Text Reckoning And Compiling) is a programming language developed in the early 1960s by Calvin Mooers.
 Trith        - Trith is an experimental stack-based, concatenative programming language by Arto Bendiken.
 TTCN         - TTCN is a programming language used for testing of communication protocols and web services. 
-TTM          - 
-T-SQL        -
-TTCN         -
-Turing       - 
-Tuscript     -
-TUTOR        -
+TTM          - TTM is a string oriented, general purpose macro processing programming language developed in 1968 by Steven Caine.
+T-SQL        - Transact-SQL (T-SQL) is Microsoft's and Sybase's proprietary extension to SQL. SQL, often expanded to Structured Query Language.
+Turing       - Turing is a Pascal-like programming language developed in 1982 by Ric Holt and James Cordy, then of University of Toronto,Canada.
+Tuscript     - TUSCRIPT is the scripting language module of TUSTEP (acronym for TUebingen System of TExt processing Programs).
+TUTOR        - TUTOR (also known as PLATO Author Language) is a programming language developed for use on the PLATO system at the Univ. of Illinois.
 TXL          -
 TypeScript   -
