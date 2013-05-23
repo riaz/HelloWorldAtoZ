@@ -34,14 +34,14 @@ SIMSCRIPT     - SIMSCRIPT is a free-form, English-like general-purpose simulatio
 Simula        - Simula is a name for two simulation programming languages, Simula I and Simula 67, developed in the 1960s
 Simulink      - Simulink, developed by MathWorks, is a data flow graphical programming language tool for modeling, simulating and analyzing .
 SISAL         - SISAL (Streams and Iteration in a Single Assignment Language) is a general-purpose single assignment functional programming language.
-Slate         - SLIP is a list processing computer programming language, invented by Joseph Weizenbaum in the 1960s.
-SLIP          - SMALL, Small Machine Algol Like Language, is a programming language developed by Dr. Nevil Brownlee of Auckland University.
-SMALL         - Smalltalk is an object-oriented, dynamically typed, reflective programming language. 
-Smalltalk     -
-Small Basic   -
-Smil          -
-SML           -
-SNOBOL        -
+Slate         - Slate is a prototype-based object-oriented programming language based on Self, CLOS, and Smalltalk-80.
+SLIP          - SLIP is a list processing computer programming language, invented by Joseph Weizenbaum in the 1960s.
+SMALL         - SMALL, Small Machine Algol Like Language, is a programming language developed by Dr. Nevil Brownlee of Auckland University.
+Smalltalk     - Smalltalk is an object-oriented, dynamically typed, reflective programming language. 
+Small Basic   - SmallBASIC is a BASIC programming language dialect with interpreters released as free software under the GNU. 
+Smil          - SMIL is a markup Langauge.
+SML           - Standard ML (SML) is a general-purpose, modular, functional programming language with compile-time type checking.
+SNOBOL        - SNOBOL (StriNg Oriented and symBOlic Language) is a series of computer programming languages developed by AT & T.
 Snowball      -
 Snusp         -
 SOL           -
