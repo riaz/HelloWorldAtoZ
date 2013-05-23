@@ -9,11 +9,11 @@ TECO         - Tape Editor and COrrector, but later Text Editor and COrrector) i
 TELCOMP      - TELCOMP was a programming language developed at Bolt, Beranek and Newman (BBN) in about 1965.  
 Template Tk  - The template Toolkit
 TestML       - TestML is an Acmeist, data-driven, unit test language/framework. This means that you can write the same software in many languagues.
-TEX          -
-TI-Basic     -
-TIE          -
-Timber       -
-Tk           -
+TEX          - TeX is a typesetting system designed and mostly written by Donald Knuth.
+TI-Basic     - TI-BASIC is the high-level language used on TI-83 and TI-83+ calculators (aside from the assembly which is also on the calculator).
+TIE          - Tensilica Instruction Extension refers to the proprietary language that is used to customize the Xtensa processor core architecture.
+Timber       - Timber is a functional programming language descendant from O'Haskell, targeted at embedded real-time systems.
+Tk           - The Tk is a graphical programming language based on Tcl.
 TMG          -
 Tom          -
 TOM          -
