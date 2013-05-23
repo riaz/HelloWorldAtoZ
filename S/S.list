@@ -29,14 +29,14 @@ SETL          - SETL (SET Language) is a very-high level programming language ba
 ShadowScript  - The Shadow Script Scripting Langaueg.
 Shift Script  - Shift Script is a small, rapid development programming language that can be both used for general programs and computer games.
 Shiny         - Shiny is a simple interpreted scripting language with aspects similar to Lua, Ruby and Perl. 
-SIMPOL        -
-SIMSCRIPT     -
-Simula        -
-Simulink      -
-SISAL         -
-Slate         -
-SLIP          -
-SMALL         -
+SIMPOL        - SIMPOL is an multi-paradigm programming language that can be used for both general purpose and database-oriented programming.
+SIMSCRIPT     - SIMSCRIPT is a free-form, English-like general-purpose simulation language conceived by Harry Markowitz and Bernard Hausner.
+Simula        - Simula is a name for two simulation programming languages, Simula I and Simula 67, developed in the 1960s
+Simulink      - Simulink, developed by MathWorks, is a data flow graphical programming language tool for modeling, simulating and analyzing .
+SISAL         - SISAL (Streams and Iteration in a Single Assignment Language) is a general-purpose single assignment functional programming language.
+Slate         - SLIP is a list processing computer programming language, invented by Joseph Weizenbaum in the 1960s.
+SLIP          - SMALL, Small Machine Algol Like Language, is a programming language developed by Dr. Nevil Brownlee of Auckland University.
+SMALL         - Smalltalk is an object-oriented, dynamically typed, reflective programming language. 
 Smalltalk     -
 Small Basic   -
 Smil          -
