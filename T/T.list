@@ -14,15 +14,14 @@ TI-Basic     - TI-BASIC is the high-level language used on TI-83 and TI-83+ calc
 TIE          - Tensilica Instruction Extension refers to the proprietary language that is used to customize the Xtensa processor core architecture.
 Timber       - Timber is a functional programming language descendant from O'Haskell, targeted at embedded real-time systems.
 Tk           - The Tk is a graphical programming language based on Tcl.
-TMG          -
-Tom          -
-TOM          -
-Topspeed     -
-TorqueScript -
-TPP          -
-TPU          -
-Trac	     -
-Trith        -
+TMG          - TMG is a compiler-compiler created by Robert M. McClure and presented in 1968. and implemented by Douglas McIlroy.
+TOM          - Tom is a PL particularly well-suited for programming various transformations on tree structures and XML based documents.
+Topspeed     - Same as Charion.
+TorqueScript - Torque Script is a Scripting langauge.
+TPP          - The Tpp Programming Language.
+TPU          - DEC Text Processing Utility  was a language developed by Digital Equipment Corporation (DEC) for developing text editors.
+Trac	     - TRAC (for Text Reckoning And Compiling) is a programming language developed in the early 1960s by Calvin Mooers.
+Trith        - Trith is an experimental stack-based, concatenative programming language by Arto Bendiken.
 TTCN         -
 TTM          - 
 T-SQL        -
