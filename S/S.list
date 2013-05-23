@@ -66,8 +66,8 @@ Stateflow     - Stateflow, developed by MathWorks, is a control logic tool used 
 Subtext       - Subtext is a moderately visual programming language and environment, for writing application software.
 Suneido       - Suneido™ is a complete, integrated application platform - a system for developing and deploying applications.
 SuperCollider - SuperCollider is an environment and programming language originally released in 1996 by James McCartney.
-SuperTalk     -
-Svg           -
-SYMPL         -
-SyncCharts    -
-SystemVerilog -
+SuperTalk     - SuperTalk is the scripting language used in SuperCard. SuperTalk is a descendant of HyperTalk.
+Svg           - Svg is a markup language.
+SYMPL         - SYMPL was a programming language developed by the Control Data Corporation for use on the CDC 6000 series computer systems.
+SyncCharts    - SyncCharts is a graphical formalism dedicated to reactive system modeling. 
+SystemVerilog - SystemVerilog is a combined Hardware Description Language and Hardware Verification Language based on extensions to Verilog.
