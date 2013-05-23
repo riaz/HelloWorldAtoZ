@@ -1,12 +1,12 @@
 S             - S is a statistical PL developed primarily by John Chambers and (in earlier versions) Rick Becker.
 S2            - S2 (Style System 2) is an object-oriented programming language developed in the late 1990s by Brad Fitzpatrick.
 S3            - S3 is a structured, imperative high-level computer programming language.
-S-Lang        -
-S-PLUS        -
-SA-C          -
-SabreTalk     -
-SAIL          -
-Salmon        -
+S-Lang        - The S-Lang programming library is a software library for Unix, Windows, VMS, OS/2, and Mac OS X.
+S-PLUS        - S-PLUS is a commercial implementation of the S programming language sold by TIBCO Software Inc..
+SA-C          - Single-Assigmnent C is a member of the C programmigng langauge designed to be directly intuitively translated to circuits.
+SabreTalk     - SabreTalk is a dialect of PL/I for the S/360 IBM mainframes running the TPF platform.
+SAIL          - SAIL, the Stanford Artificial Intelligence Language, was developed by Dan Swinehart and Bob Sproull of the Stanford AI Lab in 1970.
+Salmon        - Salmon is a general-purpose, multi-paradigm language that supports imperative, object-oriented, and functional programming styles.
 SALSA         -
 SAM76         -
 SAS           -
