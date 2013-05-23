@@ -3,10 +3,10 @@ TACL         - TACL (the Tandem Advanced Command Language) is the scripting prog
 TACPOL       - TACPOL (Tactical Procedure Oriented Language) is a block structured programming language developed by the United States Army.
 TADS         - Text Adventure Development System (TADS) is a prototype-based domain-specific programming language.
 TAL          - Transaction Application Language  is a block-structured, procedural language optimized for use on Tandem System.
-Tcl          -
-Tea          -
-TECO         -
-TELCOMP      -  
+Tcl          - TCL pronounced as "tickle" is a scripting language created by John Ousterhout.
+Tea          - Tea is a high level scripting language for the Java environment. It combines features of Scheme, Tcl and Java.
+TECO         - Tape Editor and COrrector, but later Text Editor and COrrector) is a text editor originally developed at the (MIT) in the 1960s.
+TELCOMP      - TELCOMP was a programming language developed at Bolt, Beranek and Newman (BBN) in about 1965.  
 Template Tk  -
 TestML       -
 TeX          -
