@@ -7,9 +7,8 @@ Tcl          - TCL pronounced as "tickle" is a scripting language created by Joh
 Tea          - Tea is a high level scripting language for the Java environment. It combines features of Scheme, Tcl and Java.
 TECO         - Tape Editor and COrrector, but later Text Editor and COrrector) is a text editor originally developed at the (MIT) in the 1960s.
 TELCOMP      - TELCOMP was a programming language developed at Bolt, Beranek and Newman (BBN) in about 1965.  
-Template Tk  -
-TestML       -
-TeX          -
+Template Tk  - The template Toolkit
+TestML       - TestML is an Acmeist, data-driven, unit test language/framework. This means that you can write the same software in many languagues.
 TEX          -
 TI-Basic     -
 TIE          -
