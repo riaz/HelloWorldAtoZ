@@ -7,13 +7,12 @@ SA-C          - Single-Assigmnent C is a member of the C programmigng langauge d
 SabreTalk     - SabreTalk is a dialect of PL/I for the S/360 IBM mainframes running the TPF platform.
 SAIL          - SAIL, the Stanford Artificial Intelligence Language, was developed by Dan Swinehart and Bob Sproull of the Stanford AI Lab in 1970.
 Salmon        - Salmon is a general-purpose, multi-paradigm language that supports imperative, object-oriented, and functional programming styles.
-SALSA         -
-SAM76         -
-SAS           -
-SASL          -
-Sather        -
-Sawzall       -
-SBL           -
+SALSA         - The SALSA programming language (Simple Actor Language System and Architecture) is an actor-oriented programming language.
+SAM76         - SAM76 is a macro programming language used from the late 1970s to the present 2007 initially ran on CP/M.
+SAS           - SAS (pronounced "sass", originally Statistical Analysis System) is an integrated system of software products provided by SAS Institute.
+SASL          - SASL (from St. Andrews Static Language, alternatively St. Andrews Standard Language) is a purely functional programming language.
+Sather        - Sather is an OOPL. It originated circa 1990 at the International Computer Science Institute (ICSI) at UC Berkeley.
+Sawzall       - Sawzall is a procedural domain-specific programming language, used by Google to process large numbers of individual log records.
 Scala         -
 Scar          -
 Scheme        -
