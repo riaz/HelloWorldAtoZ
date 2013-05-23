@@ -17,12 +17,12 @@ Scala         - Scala (pron.: /ˈskɑːlə/ skah-lə) is an object-functional pr
 Scar          - The Scar programming Language.
 Scheme        - Scheme is a functional programming language and one of the two main dialects of the programming language Lisp.
 Scilab        - Scilab is an open source, cross-platform numerical computational package and a high-level, numerically oriented PL.
-Scratch       -
-Script.NET    -
-Scriptol      -
-Sed           -
-Seed7         -
-Self          -
+Scratch       - Scratch is a PL learning environment enabling beginners to get results without having to learn syntactic programming.
+Script.NET    - Script.NET or S# is a metaprogramming language that provides scripting functionality in Microsoft .NET applications.
+Scriptol      - The Scriptol Programming language.
+Sed           - sed reads text input, line by line, either from a file or a stream, into an internal buffer called the pattern space.
+Seed7         - Seed7 is an extensible general-purpose programming language designed by Thomas Mertes. It is syntactically similar to Pascal and Ada.
+Self          - Self is an object-oriented programming language based on the concept of prototypes. Self was a dialect of Smalltalk.
 SenseTalk     -
 SequenceL     -
 SETL          -
