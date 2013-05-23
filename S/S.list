@@ -23,8 +23,8 @@ Scriptol      - The Scriptol Programming language.
 Sed           - sed reads text input, line by line, either from a file or a stream, into an internal buffer called the pattern space.
 Seed7         - Seed7 is an extensible general-purpose programming language designed by Thomas Mertes. It is syntactically similar to Pascal and Ada.
 Self          - Self is an object-oriented programming language based on the concept of prototypes. Self was a dialect of Smalltalk.
-SenseTalk     -
-SequenceL     -
+SenseTalk     - SenseTalk is an English-like scripting language derived from the HyperTalk language used in HyperCard. 
+SequenceL     - SequenceL is a general purpose functional programming language, whose primary design objectives are performance on multicore hardware.
 SETL          -
 ShadowScript  -
 Shift Script  -
