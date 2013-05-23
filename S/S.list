@@ -42,18 +42,17 @@ Small Basic   - SmallBASIC is a BASIC programming language dialect with interpre
 Smil          - SMIL is a markup Langauge.
 SML           - Standard ML (SML) is a general-purpose, modular, functional programming language with compile-time type checking.
 SNOBOL        - SNOBOL (StriNg Oriented and symBOlic Language) is a series of computer programming languages developed by AT & T.
-Snowball      -
-Snusp         -
-SOL           -
-Span          -
-SPARK         -
-SPIN          -
+Snowball      - Snowball is a small string-handling programming language whose name was chosen as a tribute to the SNOBOL programming language.
+Snusp         - SNUSP is an esoteric language that is a mix of Brainf*** and Befunge, with a call stack and optional concurrency thrown in.
+SOL           - The Secure Operations Language (SOL) was developed jointly by the United States Naval Research Laboratory and Utah State University.
+Span          - Span is a programming language targeting the Parrot virtual machine. Its syntax is meant to be very similar to C.
+SPARK         - SPARK is a formally-defined computer programming language based on the Ada programming language.
 Spitbol       - Same as Snowball
-SP/k          -
-SPS           -
-SPSS Syntax   -
-Sql           -
-Squeak        -
+SP/k          - SP/k is a programming language developed circa 1974[1] by R.C. Holt, D.B. Wortman, D.T. Barnard and J.R. Cordy.
+SPS           - The IBM 1401 Symbolic Programming System (SPS) was an assembler that was developed by Gary Mokotoff, IBM.
+SPSS Syntax   - The SPSL Programming Language.
+Sql           - This is a standard query langauge for querying a relational database.
+Squeak        - The Squeak programming language is a dialect of Smalltalk. It is object-oriented, class-based and reflective.
 Squirrel      -
 SR            -
 S/SL          -
