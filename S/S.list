@@ -53,19 +53,19 @@ SPS           - The IBM 1401 Symbolic Programming System (SPS) was an assembler 
 SPSS Syntax   - The SPSL Programming Language.
 Sql           - This is a standard query langauge for querying a relational database.
 Squeak        - The Squeak programming language is a dialect of Smalltalk. It is object-oriented, class-based and reflective.
-Squirrel      -
-SR            -
-S/SL          -
-SSPL          -
-Starlet       -
-Starlogo      -
-Strand        - 
-Standard ML   -
-Stata         -
-Stateflow     -
-Subtext       -
-Suneido       -
-SuperCollider - 
+Squirrel      - Squirrel is a high level imperative, object-oriented programming language, designed to be a light-weight scripting language.
+SR            - SR (short for Synchronizing Resources) is a programming language designed for concurrent programming.
+S/SL          - The Syntax/Semantic Language (S/SL) is an executable high level specification language for recursive descent parsers.
+SSPL          - The SSPL Programming language.
+Starlet       - The Starlet Programming langauge.
+Starlogo      - StarLogo is an agent-based simulation language developed by Mitchel Resnick, Eric Klopfer, and others at MIT Media Lab.
+Strand        - Strand is a high-level symbolic language for parallel computing, similar in syntax to Prolog.
+Standard ML   - Standard ML (SML) is a general-purpose, modular, functional programming language with compile-time type checking.
+Stata         - Stata is a general-purpose statistical software package created in 1985 by StataCorp.
+Stateflow     - Stateflow, developed by MathWorks, is a control logic tool used to model reactive systems via state machines.
+Subtext       - Subtext is a moderately visual programming language and environment, for writing application software.
+Suneido       - Suneido™ is a complete, integrated application platform - a system for developing and deploying applications.
+SuperCollider - SuperCollider is an environment and programming language originally released in 1996 by James McCartney.
 SuperTalk     -
 Svg           -
 SYMPL         -
