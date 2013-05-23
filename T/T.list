@@ -1,26 +1,35 @@
-T
-TACL
-TACPOL
-TADS
-TAL
-Tcl
-Tea
-TECO
-TELCOMP
-TeX
-TEX
-TIE
-Timber
-TMG, compiler-compiler
-Tom
-TOM
-Topspeed
-TPU
-Trac
-TTM
-T-SQL
-TTCN
-Turing
-TUTOR
-TXL
-TypeScript
+T            - The T programming language is a dialect of the Scheme programming language developed in the early 1980s.   
+TACL         - TACL (the Tandem Advanced Command Language) is the scripting programming language used in Tandem Computers.
+TACPOL       - TACPOL (Tactical Procedure Oriented Language) is a block structured programming language developed by the United States Army.
+TADS         - Text Adventure Development System (TADS) is a prototype-based domain-specific programming language.
+TAL          - Transaction Application Language  is a block-structured, procedural language optimized for use on Tandem System.
+Tcl          -
+Tea          -
+TECO         -
+TELCOMP      -  
+Template Tk  -
+TestML       -
+TeX          -
+TEX          -
+TI-Basic     -
+TIE          -
+Timber       -
+Tk           -
+TMG          -
+Tom          -
+TOM          -
+Topspeed     -
+TorqueScript -
+TPP          -
+TPU          -
+Trac	     -
+Trith        -
+TTCN         -
+TTM          - 
+T-SQL        -
+TTCN         -
+Turing       - 
+Tuscript     -
+TUTOR        -
+TXL          -
+TypeScript   -
